@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=TikTok+Sans:opsz,wght@12..36,300..900&display=swap');
 *{
     font-family: "Raleway", sans-serif;
+   
 
 }
 #LOGO{
@@ -132,6 +133,10 @@ form{
     line-height: 40px;
     width: 243px;
 }
+#extra{
+    font-weight: bolder;
+    font-size:x-large;
+}
 #footer{
     font-family: "TikTok Sans", sans-serif;
     font-weight: bolder;
@@ -144,3 +149,17 @@ footer{
     font-size: smaller;
     color:rgb(77, 70, 70) ;
 }
+.Reviewer{
+    border-radius: 100%;
+}
+.box{
+    background-color:aquamarine ;
+    height: fit-content;
+    width:fit-content;
+    border-radius: 10px;
+
+}
+.Bold{
+    font-weight: bold;
+}
+.rvline{line-height: 5px;}
