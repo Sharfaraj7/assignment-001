@@ -4,13 +4,9 @@
     font-family: "Raleway", sans-serif;
 
 }
-header{
-    background-image: url(Hero-bg.png);
-}
 #LOGO{
     font-family: "TikTok Sans", sans-serif;
     color: blue;
-    margin-top:;
     margin-left: 100px;
 }
 .banner{
@@ -25,6 +21,9 @@ header{
 }
 #majkhan{
     line-height:5px ;
+}
+.pruser{
+    line-height: 6px;
 }
 .button{
     border-radius: 10px;
@@ -101,10 +100,12 @@ header{
     border-radius: 7px;
     margin-right: 8%;
     margin-left: 8%;
+    height: 140px;
     
 }
 #prtext2{
     color: rgb(66, 66, 70);
+    font-size: smaller;
 
 }
 #prtext{
@@ -137,4 +138,9 @@ form{
     color: blue;
 
     font-size: 40px;
+}
+footer{
+    font-family: "TikTok Sans", sans-serif;
+    font-size: smaller;
+    color:rgb(77, 70, 70) ;
 }
